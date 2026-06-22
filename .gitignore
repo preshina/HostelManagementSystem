@@ -1,0 +1,30 @@
+# Python
+*.py[cod]
+**/__pycache__/
+
+# Database files
+*.db
+*.sqlite3
+
+# Virtual environments
+Backend/venv/
+Backend/.venv/
+Backend/env/
+
+# Environment variables
+.env
+Backend/.env
+Frontend/.env
+
+# React
+Frontend/node_modules/
+Frontend/dist/
+Frontend/build/
+
+# Editors
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
